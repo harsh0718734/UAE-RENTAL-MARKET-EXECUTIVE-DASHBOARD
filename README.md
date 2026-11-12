@@ -34,6 +34,11 @@ An interactive Real Estate Analytics Dashboard built using Microsoft Power BI to
 - `UAE RENTAL ANALYSIS.csv` — Source dataset containing 73,743 raw transaction rows (73,023 verified listings modeled after Power Query deduplication).
 - `DASHBOARD.png` — Preview screenshot of the executive Power BI dashboard.
 
+## 🚀 How to Use
+1. Download the `.pbix` file from this repository.
+2. Open it using Microsoft Power BI Desktop.
+3. Click through the left-hand slicers and interactive charts to explore different UAE cities and real estate trends.
+
 ## 💡 Skills Demonstrated
 - Power BI dashboard development
 - DAX calculations and KPI tracking
@@ -41,9 +46,3 @@ An interactive Real Estate Analytics Dashboard built using Microsoft Power BI to
 - Power Query data cleansing and deduplication
 - Business intelligence and real estate visualization
 - Exploratory rental market and spatial yield analysis
-
-
-## 🚀 How to Use
-1. Download the `.pbix` file from this repository.
-2. Open it using Microsoft Power BI Desktop.
-3. Click through the left-hand slicers and interactive charts to explore different UAE cities and real estate trends.
