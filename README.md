@@ -32,7 +32,7 @@ An interactive Real Estate Analytics Dashboard built using Microsoft Power BI to
 ## 📁 Project Files
 - `UAE RENTAL MARKET EXECUTIVE DASHBOARD.pbix` — Master Power BI desktop application file housing the dashboard.
 - `UAE RENTAL ANALYSIS.csv` — Source dataset containing 73,743 raw transaction rows (73,023 verified listings modeled after Power Query deduplication).
-- `UAE RENTAL MARKET EXECUTIVE DASHBOARD.png` — Preview screenshot of the executive Power BI dashboard.
+- `UAE_RENTAL_DASHBOARD.png` — Preview screenshot of the executive Power BI dashboard.
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.
